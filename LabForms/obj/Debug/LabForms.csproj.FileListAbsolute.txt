@@ -1,0 +1,10 @@
+C:\Users\fabio\Documents\dev\LabForms\LabForms\bin\Debug\LabForms.exe.config
+C:\Users\fabio\Documents\dev\LabForms\LabForms\bin\Debug\LabForms.exe
+C:\Users\fabio\Documents\dev\LabForms\LabForms\bin\Debug\LabForms.pdb
+C:\Users\fabio\Documents\dev\LabForms\LabForms\obj\Debug\LabForms.MainForm.resources
+C:\Users\fabio\Documents\dev\LabForms\LabForms\obj\Debug\LabForms.Properties.Resources.resources
+C:\Users\fabio\Documents\dev\LabForms\LabForms\obj\Debug\LabForms.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\dev\LabForms\LabForms\obj\Debug\LabForms.exe
+C:\Users\fabio\Documents\dev\LabForms\LabForms\obj\Debug\LabForms.pdb
+C:\Users\fabio\Documents\dev\LabForms\LabForms\obj\Debug\LabForms.csprojAssemblyReference.cache
+C:\Users\fabio\Documents\dev\LabForms\LabForms\obj\Debug\LabForms.Documents.CPFForm.resources
